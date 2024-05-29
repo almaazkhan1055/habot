@@ -1,0 +1,11 @@
+.hero {
+  height: 500px;
+  width: 100%;
+}
+.img {
+  background-image: url("../../../public/pexels-jeshoots-com-147458-442579.jpg");
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  object-fit: cover;
+}
